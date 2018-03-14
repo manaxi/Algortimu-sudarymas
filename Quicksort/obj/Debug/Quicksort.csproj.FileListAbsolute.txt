@@ -1,0 +1,18 @@
+D:\@Documents\Visual studio 2013\Visual Studio 2013\Projects\C#\Quicksort\Quicksort\bin\Debug\Quicksort.exe.config
+D:\@Documents\Visual studio 2013\Visual Studio 2013\Projects\C#\Quicksort\Quicksort\bin\Debug\Quicksort.exe
+D:\@Documents\Visual studio 2013\Visual Studio 2013\Projects\C#\Quicksort\Quicksort\bin\Debug\Quicksort.pdb
+D:\@Documents\Visual studio 2013\Visual Studio 2013\Projects\C#\Quicksort\Quicksort\obj\Debug\Quicksort.exe
+D:\@Documents\Visual studio 2013\Visual Studio 2013\Projects\C#\Quicksort\Quicksort\obj\Debug\Quicksort.pdb
+C:\Users\manax\Desktop\Quicksort\Quicksort\bin\Debug\Quicksort.exe.config
+C:\Users\manax\Desktop\Quicksort\Quicksort\bin\Debug\Quicksort.exe
+C:\Users\manax\Desktop\Quicksort\Quicksort\bin\Debug\Quicksort.pdb
+C:\Users\manax\Desktop\Quicksort\Quicksort\obj\Debug\Quicksort.csprojResolveAssemblyReference.cache
+C:\Users\manax\Desktop\Quicksort\Quicksort\obj\Debug\Quicksort.csproj.CoreCompileInputs.cache
+C:\Users\manax\Desktop\Quicksort\Quicksort\obj\Debug\Quicksort.exe
+C:\Users\manax\Desktop\Quicksort\Quicksort\obj\Debug\Quicksort.pdb
+Z:\Quicksort\Quicksort\bin\Debug\Quicksort.exe.config
+Z:\Quicksort\Quicksort\obj\Debug\Quicksort.exe
+Z:\Quicksort\Quicksort\obj\Debug\Quicksort.pdb
+Z:\Quicksort\Quicksort\bin\Debug\Quicksort.exe
+Z:\Quicksort\Quicksort\bin\Debug\Quicksort.pdb
+Z:\Quicksort\Quicksort\obj\Debug\Quicksort.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\manax\Desktop\Quicksort\Linear\obj\Debug\Linear.csprojResolveAssemblyReference.cache
+C:\Users\manax\Desktop\Quicksort\Linear\obj\Debug\Linear.csproj.CoreCompileInputs.cache
+C:\Users\manax\Desktop\Quicksort\Linear\bin\Debug\Linear.exe.config
+C:\Users\manax\Desktop\Quicksort\Linear\bin\Debug\Linear.exe
+C:\Users\manax\Desktop\Quicksort\Linear\bin\Debug\Linear.pdb
+C:\Users\manax\Desktop\Quicksort\Linear\obj\Debug\Linear.exe
+C:\Users\manax\Desktop\Quicksort\Linear\obj\Debug\Linear.pdb
